@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Financial Funda</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_page2">Monetary Ploicy</string>
+    <string name="title_activity_page3">Raju and the friendly ATM</string>
+    <string name="title_activity_page4">Raju and the Debit Card</string>
+    <string name="title_activity_page5">Caring for your Currency</string>
+    <string name="desc"></string>
+
+</resources>
